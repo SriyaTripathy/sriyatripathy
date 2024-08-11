@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriya Samrudhi Tripathy</h1>
 <h3 align="center"># Hi there! 👋 **Frontend Developer** _Creating clean, responsive web designs with HTML, CSS, and JavaScript_</h3>
-![Banner](https://link-to-your-banner-image.png)
+
+
 - 🔭 I’m currently working on [TODO List App](https://github.com/SriyaTripathy/project_furniture_selling_app)
 
 - 🌱 I’m currently learning **ReactJS, Bootstrap, Tailwind CSS**
