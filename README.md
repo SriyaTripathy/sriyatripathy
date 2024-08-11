@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sriyasamrudhi13@gmail.com**
 
-- 📄 Know about my experiences [I worked on projects that honed my skills in HTML, CSS, JavaScript, and React, including a 'To-Do List App' and a 'Furniture Selling App,' where I developed clean, responsive designs and gained practical web development experience.](I worked on projects that honed my skills in HTML, CSS, JavaScript, and React, including a 'To-Do List App' and a 'Furniture Selling App,' where I developed clean, responsive designs and gained practical web development experience.)
+- 📄 Know about my experiences I worked on projects that honed my skills in HTML, CSS, JavaScript, and React, including a 'To-Do List App' and a 'Furniture Selling App,' where I developed clean, responsive designs and gained practical web development experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
